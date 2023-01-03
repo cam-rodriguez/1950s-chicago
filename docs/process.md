@@ -6,6 +6,7 @@ layout: default
 this is a massive labor of love in order to digitize some of the most fascinating chicago maps out there (whcih is saying a lot, because there are a lot of fascinating maps) — the 1976 'community settlement area' maps created by the department of planning & development. 
 
 here's the one from 1950:
+<img src="./Chicago_Demographics_in_1950_Map.jpg"></img>
 ![image](./Chicago_Demographics_in_1950_Map.jpg)
 
 it's pretty cool! and very complicated. and i love a challenge, and am a glutton for punishment, so to challenge my digitizing skills & to play around with some things, i decided to tackle digitizing the series of all six maps. (i found out there were six maps after finishing the 1950 one. finding out there were 5 more _did_ kind of make me break down a little and cry. but alas! here we are.)
