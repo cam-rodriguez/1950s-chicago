@@ -4,7 +4,7 @@ plugins:
 
 title: chicago settlement maps
 description: digitizing demographic maps from 1976 of the windy city. <br><br>
-            (here's <a href="./process.html">how i did it</a>)
+            (here's <a href="./process.html">how i did it</a>)<br>
             (and here <a href="./maps.html">are the maps</a>)
 
 show_downloads: true
