@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: chicago settlement maps
-description: hinga dinga durgen
+description: digitizing demographic maps from 1976 of the windy city. (here's [how i did it](./process.html))
 
 show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
