@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #fff;
+  background-color: #efebe0;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -35,12 +35,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#c2ba67;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#2f456e;
   font-weight: bold;
 }
 
@@ -61,7 +61,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:1px solid #b63e2d;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -76,7 +76,7 @@ pre {
   padding:8px 15px;
   background: #f8f8f8;
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid #b63e2d;
   overflow-x: auto;
 }
 
@@ -88,7 +88,7 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid #b63e2d;
 }
 
 dt {
@@ -118,6 +118,7 @@ kbd {
   vertical-align: middle;
 }
 
+// sidebar settings
 header {
   width:200px;
   float:left;

@@ -3,7 +3,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: chicago settlement maps
-description: digitizing demographic maps from 1976 of the windy city. (here's <a href="./process.html">how i did it</a>)
+description: digitizing demographic maps from 1976 of the windy city. <br><br>
+            (here's <a href="./process.html">how i did it</a>)
+            (and here <a href="./maps.html">are the maps</a>)
 
 show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
